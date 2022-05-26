@@ -1,0 +1,80 @@
+[
+    {
+      "_id": "62892d34b27bc06c487af651",
+      "index": 0,
+      "price": 1512,
+      "picture": "https://i.ibb.co/kJC8kQT/images.jpg",
+      "avquantity": 6670,
+      "minquantity": 187,
+      "name": "Motor Cycle light",
+      "supplier": "BUGSALL",
+      "email": "genevievelandry@bugsall.com",
+      "phone": "+1 (901) 507-3673",
+      "description": "Can be Fixed on the Roof of your Car or at the Lower Bumper Area, and easily hanged with the help of Easy mounting Clamps Provided along the Bar Light High brightness Advanced LED chips and clear PC lens powerful and bright light beam let you see the forward dark road clearly.\r\n"
+    },
+    {
+      "_id": "62892d34a1d89c3205603d67",
+      "index": 1,
+      "price": 1881,
+      "picture": "https://i.ibb.co/xqbmK0m/pic3.jpg",
+      "avquantity": 9975,
+      "minquantity": 124,
+      "name": "Motor Cycle Body",
+      "supplier": "RAMEON",
+      "email": "loisbryan@rameon.com",
+      "phone": "+1 (911) 520-2929",
+      "description": "The chassis forms the foundation of any motorcycle and consists of the mainframe, front forks, rear suspension/swingarm and subframe.\r\n"
+    },
+    {
+      "_id": "62892d34faa6467f99c35eed",
+      "index": 2,
+      "price": 2395,
+      "picture": "https://i.ibb.co/rQhSTcf/pic4.jpg",
+      "avquantity": 7565,
+      "minquantity": 112,
+      "name": "Motor Cycle Chain",
+      "supplier": "GEEKKO",
+      "email": "tonibowen@geekko.com",
+      "phone": "+1 (971) 452-2650",
+      "description": "Roller chain or bush roller chain is the type of chain drive most commonly used for transmission of mechanical power on many kinds of domestic, industrial and agricultural machinery, including conveyors, wire- and tube-drawing machines, printing presses, cars, motorcycles, and bicycles..\r\n"
+    },
+    {
+      "_id": "62892d34206c2a1740520895",
+      "index": 3,
+      "price": 3315,
+      "picture": "https://i.ibb.co/vw7V3Zg/pic6.jpg",
+      "avquantity": 6399,
+      "minquantity": 185,
+      "name": "Motor Cycle Suspension",
+      "supplier": "CONFERIA",
+      "email": "wilmamarquez@conferia.com",
+      "phone": "+1 (845) 584-2056",
+      "description": "Motor Cycle Suspension is the type of chain drive most commonly used for transmission of mechanical power on many kinds of domestic, industrial and agricultural machinery, including conveyors, wire- and tube-drawing machines, printing presses, cars, motorcycles, and bicycles.\r\n"
+    },
+    {
+      "_id": "62892d34afef05c0b98ae70b",
+      "index": 4,
+      "price": 3142,
+      "picture": "https://i.ibb.co/yPxry4t/pic5.jpg",
+      "avquantity": 7450,
+      "minquantity": 123,
+      "name": "Motor Cycle Engine",
+      "supplier": "SKYPLEX",
+      "email": "henryhorn@skyplex.com",
+      "phone": "+1 (859) 442-3974",
+      "description": "Motor Cycle Engine is the type of chain drive most commonly used for transmission of mechanical power on many kinds of domestic, industrial and agricultural machinery, including conveyors, wire- and tube-drawing machines, printing presses, cars, motorcycles, and bicycles.\r\n"
+    },
+    {
+      "_id": "62892d3408bd2503d95f8d1c",
+      "index": 5,
+      "price": 2581,
+      "picture": "https://i.ibb.co/ykxF6sS/pic1.jpg",
+      "avquantity": 6090,
+      "minquantity": 101,
+      "name": "Motor Cycle Head",
+      "supplier": "TASMANIA",
+      "email": "fletcherpowers@tasmania.com",
+      "phone": "+1 (861) 469-2588",
+      "description": "Labore labore commodo aliqua aute magna nisi non fugiat dolore incididunt et reprehenderit. Quis qui proident adipisicing tempor fugiat minim aliqua eiusmod. Aliqua elit do adipisicing fugiat eiusmod.\r\n"
+    }
+  ]
